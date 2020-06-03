@@ -1,0 +1,20 @@
+======
+Loading NuScenes tables for version v1.0-test...
+23 category,
+8 attribute,
+4 visibility,
+0 instance,
+12 sensor,
+1800 calibrated_sensor,
+462901 ego_pose,
+15 log,
+150 scene,
+6008 sample,
+462901 sample_data,
+0 sample_annotation,
+4 map,
+Done loading in 2.8 seconds.
+======
+Reverse indexing ...
+Done reverse indexing in 0.8 seconds.
+======
